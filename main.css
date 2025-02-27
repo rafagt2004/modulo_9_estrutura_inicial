@@ -8,7 +8,7 @@
 header {
     background-color: blueviolet;
     padding: 16px 0;
-    border-bottom: 16px solid rgb(16, 16, 139);
+    border-bottom: 16px solid #26394e;
     display: flex;
     justify-content: center;
     text-transform: uppercase;
@@ -24,6 +24,7 @@ form {
     background-color: #c8d6e5;
     padding: 24px 0;
     text-align: center;
+    display: none;
 }
 
 form h2 {
